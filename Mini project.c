@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    printf("********Anusha shoping mall*********");
+    printf("********manju shoping mall*********");
     int sel;
     do{
         printf("1.skin-care\n 2.mobile\n3.clothes\n4.jewellary\n");
